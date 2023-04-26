@@ -254,5 +254,6 @@ policy-compliance-operator-e8-scan.yaml
 0.0 Finish the lab
 
   $ lab finish policy-compliance
+  
 
 
